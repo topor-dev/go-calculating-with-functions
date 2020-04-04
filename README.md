@@ -1,4 +1,4 @@
-= go-calculating-with-functions
+# go-calculating-with-functions
 This repo provide solution for codewars kata named "Calculating with Functions".
 
 https://www.codewars.com/kata/calculating-with-functions
